@@ -1,0 +1,27 @@
+┌──(cipher㉿watchdog)-[~/Documents/GitHub/autoinstaller/ScareCrow]
+└─$ sh 03-create-undetected-exec-for-win.sh 
+[ ? ] Enter the location where ScareCrow is Located ? : 
+ 
+  _________                           _________                       
+ /   _____/ ____ _____ _______   ____ \_   ___ \_______  ______  _  __
+ \_____  \_/ ___\\__  \\_  __ \_/ __ \/    \  \/\_  __ \/  _ \ \/ \/ /
+ /        \  \___ / __ \|  | \/\  ___/\     \____|  | \(  <_> )     / 
+/_______  /\___  >____  /__|    \___  >\______  /|__|   \____/ \/\_/  
+        \/     \/     \/            \/        \/                      
+                                                        (@Tyl0us)
+        “Fear, you must understand is more than a mere obstacle. 
+        Fear is a TEACHER. the first one you ever had.”
+
+[*] Encrypting Shellcode Using ELZMA Encryption
+[+] Shellcode Encrypted
+[+] Patched ETW Enabled
+[+] Patched AMSI Enabled
+[+] Sleep Timer set for 2336 milliseconds 
+[*] Creating an Embedded Resource File
+[+] Created Embedded Resource File With cmd's Properties
+[*] Compiling Payload
+[+] Payload Compiled
+[*] Signing cmd.exe With a Fake Cert
+[+] Signed File Created
+[+] Binary Compiled
+[!] Sha256 hash of cmd.exe: 2da5341e99b2279462ab4ee27f4415706e0ade3e8cd97c6794cacd690135d9da

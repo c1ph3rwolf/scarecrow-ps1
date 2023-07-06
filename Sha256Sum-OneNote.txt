@@ -1,0 +1,24 @@
+ 
+  _________                           _________                       
+ /   _____/ ____ _____ _______   ____ \_   ___ \_______  ______  _  __
+ \_____  \_/ ___\\__  \\_  __ \_/ __ \/    \  \/\_  __ \/  _ \ \/ \/ /
+ /        \  \___ / __ \|  | \/\  ___/\     \____|  | \(  <_> )     / 
+/_______  /\___  >____  /__|    \___  >\______  /|__|   \____/ \/\_/  
+        \/     \/     \/            \/        \/                      
+                                                        (@Tyl0us)
+        “Fear, you must understand is more than a mere obstacle. 
+        Fear is a TEACHER. the first one you ever had.”
+
+[*] Encrypting Shellcode Using ELZMA Encryption
+[+] Shellcode Encrypted
+[+] Patched ETW Enabled
+[+] Patched AMSI Enabled
+[+] Sleep Timer set for 2298 milliseconds 
+[*] Creating an Embedded Resource File
+[+] Created Embedded Resource File With OneNote's Properties
+[*] Compiling Payload
+[+] Payload Compiled
+[*] Signing OneNote.exe With a Fake Cert
+[+] Signed File Created
+[+] Binary Compiled
+[!] Sha256 hash of OneNote.exe: e01b1e9d9ac9ed96d8402639a5f3d22014f8bd8fbbc70c7fcc6da7b1d8120952
