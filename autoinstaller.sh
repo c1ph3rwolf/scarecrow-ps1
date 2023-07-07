@@ -10,9 +10,9 @@ figlet go-lang
 #sudo apt install golang-go -y
 
 # Clone the Repository to /usr/tools/ScareCrow
-sudo mkdir $tools_path
-figlet "Created Dir - tools"
-cd $tools_path
+#sudo mkdir $tools_path
+#figlet "Created Dir - tools"
+#cd $tools_path
 
 figlet git-clone ScareCrow
 #sudo git clone $git_url

@@ -1,0 +1,21 @@
+{
+    "info":
+    {
+        "title" : "aircrack-ps1",
+        "desc"  : "A PowerShell Script to crack WPA-WPA2 using aircrack-ng",
+        "version" : "v1.0.0",
+        "author"  : "Sanjeev Stephan Murmu"
+
+    },
+    "assets" : 
+    {
+        "ascii" : "assets/wifi.ascii"
+    },
+    "directory" : 
+    {
+        "wordlist" : "/usr/share/wordlists/",
+        "handshake" : "/home/cipher/hs"
+        
+    }
+    
+}
